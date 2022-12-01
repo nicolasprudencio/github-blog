@@ -1,5 +1,5 @@
 import { HeaderContainer } from './styles'
-import github from '~/assets/icons/terminal.svg'
+import github from '/terminal.svg'
 
 export function Header() {
   return (
